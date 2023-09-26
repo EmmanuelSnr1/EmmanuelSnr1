@@ -61,7 +61,7 @@ As a first-class graduate in Computer Science, I have fortified my software engi
 <a href="https://www.linkedin.com/in/Emmanuel/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="danqulogy" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/22633606/emmanuel-appiah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="danqulogy" height="30" width="40" /></a>
 <a href="https://www.instagram.com/emanuel_snr1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="danqulogy" height="30" width="40" /></a>
-[//]: # (<a href="https://www.youtube.com/c/EmmanuelSnr1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="danqulogy" height="30" width="40" /></a>)
+<a href="https://www.youtube.com/c/EmmanuelSnr1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="danqulogy" height="30" width="40" /></a>
 </p>
 
 [//]: # (<a href="https://www.twitter.com/emmanuelsnr12" title="Follow me on Twitter">)
