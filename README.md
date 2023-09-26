@@ -39,8 +39,6 @@ As a first-class graduate in Computer Science, I have fortified my software engi
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EmmanuelSnr1)](https://github.com/EmmanuelSnr1/github-readme-stats)
 
 
-[![Your Name's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=EmmanuelSnr1)](https://github.com/EmmanuelSnr1/github-readme-stats)
-
 
 <h3 align="left">Languages & Tooling:</h3>
 <p align="left">
