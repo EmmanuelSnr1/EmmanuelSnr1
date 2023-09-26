@@ -1,5 +1,5 @@
 
-# Emmanuel Appiah
+# Hi Emmanuel Appiah (SNR)
 ### Msc Student / Junior Software Engineer
 
 As a first-class graduate in Computer Science, I have fortified my software engineering background with hands-on experience at a dynamic fintech startup and through diverse freelance engagements. After a strategic pause to pursue an MSc in Artificial Intelligence, I am eager to reintegrate my enhanced academic insights with my practical proficiency. Specializing in front-end development, microservices management in cloud-hosted environments, and project oversight, I have a particular aptitude for UX design, ensuring that delivered solutions resonate with end-users. I am on the lookout for an organization that champions innovation and provides avenues for growth, where my leadership abilities and dedication can drive transformative results.
@@ -20,34 +20,27 @@ As a first-class graduate in Computer Science, I have fortified my software engi
 
 ---
 
-# Hi, Ben White here! 👋 
-
-
-Expert Full-Stack Software Engineering Professional with over 8 years of solid progressive experience
-building and delivering medium to large-scale web and mobile applications front-end and back-ends. 
-
-I build, train, lead and coordinate with cross-functional teams and customers to achieve given project objectives. Proven success at delivering features in fast-paced environments, writing testable and maintainable source codes, improving user experience, and implementing advanced front-end and backend architectures at scale.
-
-Currently, Bernard White works as Principal Software Engineer at FullEffect Studios a product studio focused on end-to-end product development for startups, and SMEs turning ideas into tangible products and services. 
-
-His interest revolves around tackling complex distributed systems and large-scale development. 
-
-[//]: # (<p align="left"> <img src="https://komarev.com/ghpvc/?username=danqulogy&label=Profile%20views&color=green&style=flat" alt="danqulogy" /> </p>)
-
-[//]: # (<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=danqulogy" alt="mszeles" /></a> </p>)
-
-[//]: # (<p align="left"> <a href="https://twitter.com/danqulogy" target="blank"><img src="https://img.shields.io/twitter/follow/danqulogy?logo=twitter&style=for-the-badge" alt="danqulogy" /></a> </p>)
-
 ### Current Status 🎯
-- 🔭 I’m currently working on [BusPro](https://www.buspro.biz): End-to-end fleet management platform(Saas Architecture)
-- 🧭 Actively searching for remote work. (Okay with relocation, US Preferred)
-- 🦾 Gyming my knowledge on the unique challenges of distributed systems at scale (😁 Waging war on *the evil* [CAP Theorem](https://en.wikipedia.org/wiki/CAP_theorem))
-- 📫 Email me on [danquahwhite@gmail.com](mailto:danquahwhite@gmail.com)
+- 🔭 I’m currently working on [StreamSpace](https://www.emmanstheory.web.app): Revolutionary Movie Streaming application
+- 🧭 Studying Msc at Aston University
+- 🦾 Gyming my knowledge on Machine Learning (ML) models & algorithms, looking to solidify my logical thinking skills 
+- 📫 Email me on [emmanuelappiah124@gmail.com](mailto:emmanuelappiah124@gmail.com)
 
 
 <br/>
+<!-- 
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=danqulogy&theme=github-light&hide_border=true) -->
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=danqulogy&theme=github-light&hide_border=true)
+
+
+![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=EmmanuelSnr1&show_icons=true&theme=radical)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EmmanuelSnr1)](https://github.com/EmmanuelSnr1/github-readme-stats)
+
+
+[![Your Name's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=EmmanuelSnr1)](https://github.com/EmmanuelSnr1/github-readme-stats)
+
 
 <p align="center">
 
