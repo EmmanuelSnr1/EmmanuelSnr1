@@ -24,6 +24,7 @@ As a first-class graduate in Computer Science, I have fortified my software engi
 
 ### Current Status 🎯
 - 🔭 I’m currently working on [StreamSpace](https://www.emmanstheory.web.app): Revolutionary Movie Streaming application
+- 🔭 I’m currently working on [STFrontend](https://www.emmanstheory.web.app): Revolutionary Stock Market Research App
 - 🧭 Studying Msc at Aston University
 - 🦾 Gyming my knowledge on Java EE Applications, React Development, Machine Learning (ML) models & algorithms, looking to solidify my logical thinking skills 
 - 📫 Email me on [emmanuelappiah124@gmail.com](mailto:emmanuelappiah124@gmail.com)
