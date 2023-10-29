@@ -39,7 +39,7 @@ As a first-class graduate in Computer Science, I have fortified my software engi
 ![Emmanuel's Github Stats](https://github-readme-stats.vercel.app/api?username=EmmanuelSnr1&show_icons=true&theme=radical)
 
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EmmanuelSn1)](https://github.com/EmmanuelSnr1/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EmmanuelSnr1)](https://github.com/EmmanuelSnr1/github-readme-stats)
 
 
 
