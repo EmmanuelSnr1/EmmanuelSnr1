@@ -31,6 +31,7 @@ As a first-class graduate in Computer Science, I have fortified my software engi
 - 📫 Email me on [emmanuelappiah124@gmail.com](mailto:emmanuelappiah124@gmail.com)
 
 <br/>
+<hr>
 
 <!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=EmmanuelSnr1&theme=github-light&hide_border=true) -->
 
