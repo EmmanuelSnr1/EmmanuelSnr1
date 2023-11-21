@@ -31,8 +31,8 @@ As a first-class graduate in Computer Science, I have fortified my software engi
 
 
 <br/>
-<!-- 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=danqulogy&theme=github-light&hide_border=true) -->
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=EmmanuelSnr1&theme=github-light&hide_border=true)
 
 
 ### 🛠 &nbsp;What I am learning and Using:
