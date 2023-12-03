@@ -107,7 +107,6 @@ As a first-class graduate in Computer Science, I have fortified my software engi
 [//]: # '    alt="Follow me on Medium"'
 [//]: # '    src="https://raw.githubusercontent.com/trekhleb/trekhleb/master/assets/icons/medium.svg"'
 [//]: # "  /></a>"
-[//]: # " "
 [//]: # (&nbsp;)
 [//]: # (<a href="https://medium.com/@danqulogy" title="Follow me on Medium">)
 
@@ -122,6 +121,8 @@ As a first-class graduate in Computer Science, I have fortified my software engi
 [//]: # (  /></a>)
 
 [//]: # (&nbsp;)
+
+[//]: # " "
 
 <!-- <a href="https://dev.to/danqulogy" title="Follow me on DevTo">
   <img
