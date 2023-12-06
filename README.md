@@ -124,7 +124,7 @@ As a first-class graduate in Computer Science, I have fortified my software engi
 
 [//]: # " "
 
-<!-- <a href="https://dev.to/danqulogy" title="Follow me on DevTo">
+<!-- <a href="https://dev.to/EmmanuelSnr" title="Follow me on DevTo">
   <img
     width="24"
     alt="Follow me on DevTo"
