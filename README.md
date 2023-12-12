@@ -101,14 +101,14 @@ As a first-class graduate in Computer Science, I have fortified my software engi
 [//]: # '    src="https://raw.githubusercontent.com/trekhleb/trekhleb/master/assets/icons/linkedin.svg"'
 [//]: # "  /></a>"
 [//]: # " "
-[//]: # '<a href="https://medium.com/@danqulogy" title="Follow me on Medium">'
+[//]: # '<a href="https://medium.com/@Emmnanuelsnr" title="Follow me on Medium">'
 [//]: # "  <img"
 [//]: # '    width="24"'
 [//]: # '    alt="Follow me on Medium"'
 [//]: # '    src="https://raw.githubusercontent.com/trekhleb/trekhleb/master/assets/icons/medium.svg"'
 [//]: # "  /></a>"
 [//]: # (&nbsp;)
-[//]: # (<a href="https://medium.com/@danqulogy" title="Follow me on Medium">)
+[//]: # (<a href="https://medium.com/@Emmanuelsnr" title="Follow me on Medium">)
 
 [//]: # (  <img)
 
