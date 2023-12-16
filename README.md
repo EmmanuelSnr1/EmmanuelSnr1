@@ -2,7 +2,7 @@
 
 ### Msc Student / Junior Software Engineer
 
-As a first-class graduate in Computer Science, I have fortified my software engineering background with hands-on experience at a dynamic fintech startup and through diverse freelance engagements. After a strategic pause to pursue an MSc in Artificial Intelligence, I am eager to reintegrate my enhanced academic insights with my practical proficiency. Specializing in front-end development, microservices management in cloud-hosted environments, and project oversight, I have a particular aptitude for UX design, ensuring that delivered solutions resonate with end-users. I am on the lookout for an organization that prioritizes innovation and provides avenues for growth, where my leadership abilities and dedication can drive transformative results.
+As a first-class graduate in BSc Computer Science, I have fortified my software engineering background with hands-on experience at a dynamic fintech startup and through diverse freelance engagements. After a strategic pause to pursue an MSc in Artificial Intelligence, I am eager to reintegrate my enhanced academic insights with my practical proficiency. Specializing in front-end development, microservices management in cloud-hosted environments, and project oversight, I have a particular aptitude for UX design, ensuring that delivered solutions resonate with end-users. I am on the lookout for an organization that prioritizes innovation and provides avenues for growth, where my leadership abilities and dedication can drive transformative results.
 
 **Contact**: [emmanuelappiah124@gmail.com](mailto:emmanuelappiah124@gmail.com)
 
