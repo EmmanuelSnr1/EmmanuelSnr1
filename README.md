@@ -19,6 +19,7 @@ As a first-class graduate in BSc Computer Science, I have fortified my software 
 - Python Scripting
 - Git
 - Documentation
+- Jupyter notebook
 
 ---
 
