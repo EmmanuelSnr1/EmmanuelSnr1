@@ -117,6 +117,7 @@ As a first-class graduate in BSc Computer Science, I have fortified my software 
 
 [//]: # " "
 
+<!-- Remember to update the links. >
 <!-- <a href="https://dev.to/EmmanuelSnr" title="Follow me on DevTo">
   <img
     width="24"
