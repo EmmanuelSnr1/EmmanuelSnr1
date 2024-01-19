@@ -28,7 +28,8 @@ As a first-class graduate in BSc Computer Science, I have fortified my software 
 - 🔭 I’m currently working on [StreamSpace](https://www.emmanstheory.web.app): Revolutionary Movie Streaming application
 - 🔭 I’m currently working on [STFrontend](https://www.emmanstheory.web.app): Revolutionary Stock Market Research App
 - 🧭 Studying Msc at Aston University
-- 🔭 Also working on my Msc Thesis on Machine learning in stock market Research. 
+- 🔭 Also working on my Msc Thesis on Machine learning in stock market Research.
+-  🔭 Also Currently playing around with Reinforcement learning algorithms (MDP) to better understand distributed systems. 
 - 🦾 Gyming my knowledge on Java EE Applications, React Development, Machine Learning (ML) models & algorithms, looking to solidify my logical thinking skills
 - 📫 Email me on [emmanuelappiah124@gmail.com](mailto:emmanuelappiah124@gmail.com)
 
