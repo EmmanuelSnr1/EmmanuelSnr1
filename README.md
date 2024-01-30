@@ -21,6 +21,7 @@ As a first-class graduate in BSc Computer Science, I have fortified my software 
 - Git
 - Documentation
 - Jupyter notebook
+- Deep Learning Using Pytorch and Google Collab
 
 ---
 
