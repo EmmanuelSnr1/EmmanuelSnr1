@@ -62,6 +62,7 @@ As a first-class graduate in BSc Computer Science, I have fortified my software 
 
 ### ⚙️ &nbsp;Github Analytics
 
+
 <p align="left">
 <a href="https://github.com/EmmanuelSnr1">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=EmmanuelSnr1&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
