@@ -1,4 +1,4 @@
-# Hi Emmanuel (SNR) Here !!
+# Hi Emmanuel (SNR) Here 👋!!
 
 ### Msc Student / Junior Software Engineer
 
