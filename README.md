@@ -1,4 +1,4 @@
-# Hi Emmanuel Appiah (SNR) Here !!
+# Hi Emmanuel (SNR) Here !!
 
 ### Msc Student / Junior Software Engineer
 
