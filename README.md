@@ -24,7 +24,6 @@ As a first-class graduate in BSc Computer Science, I have fortified my software 
 - Deep Learning Using Pytorch and Google Collab
 ---
 
-
 ### Current Status 🎯
 
 - 🔭 I’m currently working on [StreamSpace](https://www.emmanstheory.web.app): Revolutionary Movie Streaming application.
