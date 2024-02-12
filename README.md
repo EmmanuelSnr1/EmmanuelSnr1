@@ -36,7 +36,6 @@ As a first-class graduate in BSc Computer Science, I have fortified my software 
 
 <br/>
 <hr>
-
 <!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=EmmanuelSnr1&theme=github-light&hide_border=true) -->
 
 ### 🛠 &nbsp;What I am learning and Using:
