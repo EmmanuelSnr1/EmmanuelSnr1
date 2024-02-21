@@ -12,7 +12,7 @@ As a first-class graduate in BSc Computer Science, I have fortified my software 
 
 ## Skills
 
-- Java EE (Spring framework/Struts 2)
+- Java EE (Spring framework 2,7 above/Struts 2)
 - SQL
 - React JS
 - JQUERY
