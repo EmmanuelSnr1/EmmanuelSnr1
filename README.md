@@ -25,6 +25,7 @@ As a first-class graduate in BSc Computer Science, I have fortified my software 
 - Deep Learning Using Pytorch and Google Collab
 - Webots for Robotics Simulations
 - Computational Intelligence Algorithms
+- Cyber Security Compliance
 ---
 
 ### Current Status 🎯
