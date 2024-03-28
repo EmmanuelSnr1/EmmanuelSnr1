@@ -34,6 +34,8 @@ As a first-class graduate in BSc Computer Science, I have fortified my software 
 
 - 🔭 I’m currently working on [StreamSpace](https://www.emmanstheory.web.app): Revolutionary Movie Streaming application.
 - 🔭 I’m currently working on [STFrontend](https://www.emmanstheory.web.app): Revolutionary Stock Market Research App.
+- 🔭 Backend to StocXtune [StocXtuneAPI](https://github.com/EmmanuelSnr1/StocXTuneAPI): Springboot 3 and Spring Security 6.
+- 🦾 Some Interesting Adobe XD design work [StocXtune Design](https://xd.adobe.com/view/2e1646c4-2b80-4a4a-8e9b-a1702a16bb21-7b45/?fullscreen) 
 - 🧭 Studying Msc at Aston University.
 - 🔭 Also working on my Msc Thesis on Machine learning in stock market Research.
 -  🔭 Also Currently playing around with Reinforcement learning algorithms (MDP) to better understand distributed systems, game theory and other multi-agent systems. 
