@@ -68,7 +68,7 @@ As a first-class graduate in BSc Computer Science, I have fortified my software 
 <p align="left">
   <a href="https://github.com/EmmanuelSnr1">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=EmmanuelSnr1&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide=contribs,issues"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=EmmanuelSnr1&layout=compact&langs_count=10&theme=algolia"/>
+    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=danqulogy&theme=default&hide_border=true" alt="danqulogy" />
   </a>
 </p>
 
