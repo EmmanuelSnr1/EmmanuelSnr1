@@ -72,8 +72,12 @@ As a first-class graduate in BSc Computer Science, I have fortified my software 
   </a>
 </p>
 
-
-
+<!-- Language Card -->
+<p align="left">
+  <a href="https://github.com/EmmanuelSnr1">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmmanuelSnr1&theme=algolia&layout=compact" />
+  </a>
+</p>
 
 
 <hr>
