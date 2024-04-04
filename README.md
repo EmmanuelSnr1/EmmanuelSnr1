@@ -67,10 +67,11 @@ As a first-class graduate in BSc Computer Science, I have fortified my software 
 
 <p align="left">
   <a href="https://github.com/EmmanuelSnr1">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=EmmanuelSnr1&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide=contribs,issues"/>
-    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=danqulogy&theme=default&hide_border=true" alt="danqulogy" />
+    <img height="180em" width ="50%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=EmmanuelSnr1&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide=contribs,issues"/>
+    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=EmmanuelSnr1&theme=default&hide_border=true" alt="danqulogy" />
   </a>
 </p>
+
 
 <!-- Language Card -->
 <p align="left">
