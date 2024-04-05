@@ -10,7 +10,7 @@ As a first-class graduate in BSc Computer Science, I have fortified my software 
 
 ## Skills
 
-- WordPress Web Development (including plugin dev)
+- WordPress Web Development (including plugin development)
 - Object Oriented Programming
 - Java EE (Spring framework 2,7 above/Struts 2)
 - SQL
@@ -24,6 +24,7 @@ As a first-class graduate in BSc Computer Science, I have fortified my software 
 - Jupyter notebook
 - Deep Learning Using Pytorch and Google Collab
 - Webots for Robotics Simulations
+- Neural Networks
 - Computational Intelligence Algorithms
 ---
 ### Current Status 🎯
