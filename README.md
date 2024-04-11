@@ -9,6 +9,7 @@ As a first-class graduate in BSc Computer Science, I have fortified my software 
 
 **Website**: [Emmanuel Snr](https://emmanstheory.web.app/#home)
 
+
 ## Skills
 
 - WordPress Web Development (including plugin development)
