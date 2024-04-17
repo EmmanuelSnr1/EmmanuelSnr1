@@ -40,6 +40,7 @@ As a first-class graduate in BSc Computer Science, I have fortified my software 
 - 🦾 Enhancing my knowledge on Java EE Applications, React Development, Machine Learning (ML) models & algorithms, looking to solidify my logical thinking skills
 - 📫 Email me on [emmanuelappiah124@gmail.com](mailto:emmanuelappiah124@gmail.com)
 
+
 <br/>
 <hr>
 
