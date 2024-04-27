@@ -43,6 +43,7 @@ As a first-class graduate in BSc Computer Science, I have fortified my software 
 - 📫 Email me on [emmanuelappiah124@gmail.com](mailto:emmanuelappiah124@gmail.com)
 
 
+
 <br/>
 <hr>
 
