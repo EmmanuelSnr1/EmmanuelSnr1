@@ -10,7 +10,6 @@ As a first-class graduate in BSc Computer Science, I have fortified my software 
 
 **Website**: [Emmanuel Snr](https://emmanstheory.web.app/#home)
 
-
 ## Skills
 
 - WordPress Web Development (including plugin development)
@@ -31,7 +30,6 @@ As a first-class graduate in BSc Computer Science, I have fortified my software 
 - Machine Learning 
 ---
 ### Current Status 🎯
-
 
 - 🔭 I’m currently working on [StreamSpace](https://www.emmanstheory.web.app): Revolutionary Movie Streaming application.
 - 🔭 I’m currently working on [STFrontend](https://www.emmanstheory.web.app): Revolutionary Stock Market Research App.
