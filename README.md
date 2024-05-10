@@ -99,7 +99,7 @@ As a first-class graduate in BSc Computer Science, I have fortified my software 
 [//]: # '    src="https://raw.githubusercontent.com/trekhleb/trekhleb/master/assets/icons/twitter.svg"'
 [//]: # "  /></a>"
 [//]: # " "
-[//]: # '<a href=" https://www.linkedin.com/in/Emmanuel/" title="Follow me on LinkedIn">'
+[//]: # '<a href=" https://www.linkedin.com/in/EmmanuelSnr1/" title="Follow me on LinkedIn">'
 [//]: # "  <img"
 [//]: # '    width="24"'
 [//]: # '    alt="Follow me on LinkedIn"'
