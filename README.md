@@ -85,7 +85,7 @@ As a first-class graduate in BSc Computer Science, I have fortified my software 
 <p align="left">
 
 <a href="https://www.twitter.com/emmanuelsnr12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="EmmanuelSnr1" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/Emmanuel/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="EmmanuelSnr1" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/EmmanuelSnr1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="EmmanuelSnr1" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/22633606/emmanuel-appiah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="EmmanuelSnr1" height="30" width="40" /></a>
 <a href="https://www.instagram.com/emanuel_snr1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="EmmanuelSnr1" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/EmmanuelSnr1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="EmmanuelSnr1" height="30" width="40" /></a>
