@@ -26,9 +26,10 @@ As a first-class graduate in BSc Computer Science, I have fortified my software 
 - Jupyter notebook
 - Deep Learning Using Pytorch and Google Collab
 - Webots for Robotics Simulations
-- Neural Networks
+- Deep Neural Networks
 - Machine Learning
 - Metaheuristics and Algorithm design
+- 
 ---
 ### Current Status 🎯
 
