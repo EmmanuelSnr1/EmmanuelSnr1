@@ -1,6 +1,6 @@
 # Hi Emmanuel (SNR) Here 👋!!
 
-### Msc Student / Junior Software Engineer
+### Msc AI Student / Junior Software Engineer
 
 
 As a first-class graduate in BSc Computer Science, I have fortified my software engineering skills through roles in dynamic environments including a fintech startup and diverse freelance projects. Recently, I advanced my education with an MSc in Artificial Intelligence, aiming to blend cutting-edge academic insights with practical software development expertise.
