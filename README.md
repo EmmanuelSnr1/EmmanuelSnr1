@@ -3,7 +3,9 @@
 ### Msc Student / Junior Software Engineer
 
 
-As a first-class graduate in BSc Computer Science, I have fortified my software engineering background with hands-on experience at a dynamic fintech startup and through diverse freelance engagements. After a strategic pause to pursue an MSc in Artificial Intelligence, I am eager to reintegrate my enhanced academic insights with my practical proficiency. Specializing in full stack development, microservices management in cloud-hosted environments, and project oversight, I have an aptitude for UX design, ensuring that delivered solutions resonate with end-users. I am on the lookout for an organization that prioritizes innovation and provides avenues for growth, where my technical abilities and dedication can drive transformative results.
+As a first-class graduate in BSc Computer Science, I have fortified my software engineering skills through roles in dynamic environments including a fintech startup and diverse freelance projects. Recently, I advanced my education with an MSc in Artificial Intelligence, aiming to blend cutting-edge academic insights with practical software development expertise.
+Currently, I am a Junior Software Developer at Stratford Consulting, where I focus on full stack development, microservices management in cloud-hosted environments, and project oversight. My specialization in UX design ensures that the solutions I help deliver not only meet functional requirements but also resonate deeply with end-users.
+I am committed to continuous learning and growth within an innovative environment, where my technical skills and proactive approach can contribute to transformative results.
 
 
 **Contact**: [emmanuelappiah124@gmail.com](mailto:emmanuelappiah124@gmail.com)
