@@ -29,7 +29,7 @@ As a first-class graduate in BSc Computer Science, I have fortified my software 
 - Deep Neural Networks
 - Machine Learning
 - Metaheuristics and Algorithm design
-- 
+- Angular JS
 ---
 ### Current Status 🎯
 
