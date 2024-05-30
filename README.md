@@ -11,7 +11,6 @@ As a first-class graduate in BSc Computer Science, I have fortified my software 
 **Website**: [Emmanuel Snr](https://emmanstheory.web.app/#home)
 
 ## Skills
- 
 - Object Oriented Programming
 - Java EE (Spring framework 2,7 above/Struts 2)
 - SQL
@@ -43,8 +42,6 @@ As a first-class graduate in BSc Computer Science, I have fortified my software 
 -  🔭 Also Currently playing around with Reinforcement learning algorithms (MDP) to better understand distributed systems, game theory and other multi-agent systems. 
 - 🦾 Enhancing my knowledge on Java EE Applications, React Development, Machine Learning (ML) models & algorithms, looking to solidify my logical thinking skills
 - 📫 Email me on [emmanuelappiah124@gmail.com](mailto:emmanuelappiah124@gmail.com)
-
-
 
 <br/>
 <hr>
