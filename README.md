@@ -12,7 +12,7 @@ As a first-class graduate in BSc Computer Science, I have fortified my software 
 
 ## Skills
 - Object Oriented Programming
-- Java EE (Spring framework 2,7 above/Struts 2)
+- Java EE (Spring framework 2.7 above/Struts 2)
 - SQL
 - WordPress Web Development (including plugin development)
 - React JS
