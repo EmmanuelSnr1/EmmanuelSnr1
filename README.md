@@ -75,8 +75,6 @@ As a first-class graduate in BSc Computer Science, I have fortified my software 
   </a>
 </p>
 
-
-
 <hr>
 
 ### Get in touch
