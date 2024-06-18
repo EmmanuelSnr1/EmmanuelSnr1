@@ -49,7 +49,9 @@ As a first-class graduate in BSc Computer Science, I have fortified my software 
 
 
 
-### 🛠 &nbsp;What I am learning and Using:
+Here's the updated list with the additional technologies you mentioned:
+
+### 🛠 &nbsp;What I am Learning and Using:
 
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
@@ -66,7 +68,11 @@ As a first-class graduate in BSc Computer Science, I have fortified my software 
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-05122A?style=flat&logo=spring-boot)&nbsp;
 ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-05122A?style=flat&logo=adobe-xd)&nbsp;
 ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-05122A?style=flat&logo=jupyter)&nbsp;
-
+![Java Jersey](https://img.shields.io/badge/-Java%20Jersey-05122A?style=flat&logo=java&logoColor=FFA518)&nbsp;
+![Vue.js](https://img.shields.io/badge/-Vue.js-05122A?style=flat&logo=vue.js)&nbsp;
+![Hibernate](https://img.shields.io/badge/-Hibernate-05122A?style=flat&logo=hibernate)&nbsp;
+![AngularJS](https://img.shields.io/badge/-AngularJS-05122A?style=flat&logo=angularjs)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
 <hr>
 
 ### ⚙️ &nbsp;Github Analytics
