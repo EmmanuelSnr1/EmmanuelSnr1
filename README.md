@@ -86,7 +86,6 @@ Here's the updated list with the additional technologies you mentioned:
     <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=EmmanuelSnr1&theme=default&hide_border=true" alt="danqulogy" />
   </a>
 </p>
-
 <hr>
 
 ### Get in touch
