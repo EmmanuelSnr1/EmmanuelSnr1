@@ -36,8 +36,8 @@ As a first-class graduate in BSc Computer Science, I have fortified my software 
 
 ### Current Status 🎯
 
-- 🔭 I’m currently working on [StreamSpace](https://www.emmanstheory.web.app): Revolutionary Movie Streaming application.
-- 🔭 I’m currently working on [STFrontend](https://www.emmanstheory.web.app): Revolutionary Stock Market Research App.
+- 🔭 I’m currently working on [StreamSpace](https://streamspace-b2356.web.app/): Revolutionary Movie Streaming application.
+- 🔭 I’m currently working on [STFrontend](https://emmanstheory.web.app): Revolutionary Stock Market Research App.
 - 🔭 Backend to StocXtune [StocXtuneAPI](https://github.com/EmmanuelSnr1/StocXTuneAPI): Springboot 3 and Spring Security 6.
 - 🦾 Some Interesting Adobe XD design work [StocXtune Design](https://xd.adobe.com/view/2e1646c4-2b80-4a4a-8e9b-a1702a16bb21-7b45/?fullscreen) 
 - 🧭 Studying Msc in Artificial Intelligence at [Aston University](https://www.aston.ac.uk/).
