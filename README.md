@@ -50,7 +50,6 @@ As a first-class graduate in BSc Computer Science, I have fortified my software 
 <hr>
 
 
-
 Here's the updated list with the additional technologies you mentioned:
 
 ### 🛠 &nbsp;What I am Learning and Using:
