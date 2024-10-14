@@ -33,7 +33,6 @@ As a first-class graduate in BSc Computer Science, I have fortified my software 
 - PM4PY Process Mining Library for python
 ---
 
-
 ### Current Status 🎯
 
 - 🔭 I’m currently working on [StreamSpace](https://streamspace-b2356.web.app/): Revolutionary Movie Streaming application.
