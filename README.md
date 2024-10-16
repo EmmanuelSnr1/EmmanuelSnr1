@@ -9,6 +9,8 @@ As a first-class graduate in BSc Computer Science, I have fortified my software 
 
 **Website**: [Emmanuel Snr](https://emmanstheory.web.app/#home)
 
+
+
 ## Skills
 - Object Oriented Programming
 - Java EE (Spring framework 2.7 above/Struts 2)
