@@ -9,6 +9,8 @@ As a first-class graduate in BSc Computer Science, I have fortified my software 
 
 **Website**: [Emmanuel Snr](https://emmanstheory.web.app/#home)
 
+# *Coming Soon* : [SNR AI](https://snr-ai.com/)
+
 
 
 ## Skills
