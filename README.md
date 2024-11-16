@@ -35,6 +35,7 @@ As a first-class graduate in BSc Computer Science, I have fortified my software 
 - Angular JS
 - Vue Js
 - PM4PY Process Mining Library for python
+- Shad CN Vue
 ---
 
 ### Current Status 🎯
