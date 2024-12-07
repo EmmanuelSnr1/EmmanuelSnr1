@@ -12,6 +12,9 @@ As a first-class graduate in BSc Computer Science, I have fortified my software 
 
 # *Coming Soon* : [SNR AI](https://snr-ai.com/)
 
+# *Join our Waiting List* : [SNR AI](https://toneiq.web.app/)
+
+
 
 ## Skills
 - Object Oriented Programming
