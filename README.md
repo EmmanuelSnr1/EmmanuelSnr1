@@ -13,7 +13,6 @@ As a first-class graduate in BSc Computer Science, I have fortified my software 
 # *Coming Soon* : [SNR AI](https://snr-ai.com/)
 
 
-
 ## Skills
 - Object Oriented Programming
 - Java EE (Spring framework 2.7 above/Struts 2)
