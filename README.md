@@ -40,6 +40,7 @@ As a first-class graduate in BSc Computer Science, I have fortified my software 
 - Shad CN Vue
 ---
 
+
 ### Current Status 🎯
 
 - 🔭 I’m currently working on [StreamSpace](https://streamspace-b2356.web.app/): Revolutionary Movie Streaming application.
