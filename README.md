@@ -90,7 +90,7 @@ Here's the updated list with the additional technologies you mentioned:
 <p align="left">
   <a href="https://github.com/EmmanuelSnr1">
     <img height="180em" width ="50%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=EmmanuelSnr1&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide=contribs,issues"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=EmmanuelSnr1&theme=default&hide_border=true" alt="EmmanuelSnr1's GitHub Streak Stats" />
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
   </a>
 </p>
 <hr>
