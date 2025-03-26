@@ -15,7 +15,6 @@ As a first-class graduate in BSc Computer Science, I have fortified my software 
 # *Join our Waiting List* : [TONEIQ](https://toneiq.web.app/)
 
 
-
 ## Skills
 - Object Oriented Programming
 - Java EE (Spring framework 2.7 above/Struts 2)
