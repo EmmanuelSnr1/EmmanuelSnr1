@@ -10,7 +10,7 @@ As a first-class graduate in BSc Computer Science, I have fortified my software 
 
 **Website**: [Emmanuel Snr](https://emmanstheory.web.app/#home)
 
-# *Coming Soon* : [SNR AI](https://snr-ai.com/)
+# *Our Consulting Company* : [SNR AI](https://snr-ai.com/)
 
 # *Join our Waiting List* : [TONEIQ](https://toneiq.web.app/)
 
