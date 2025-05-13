@@ -14,6 +14,9 @@ As a first-class graduate in BSc Computer Science, I have fortified my software 
 
 # *Join our Waiting List* : [TONEIQ](https://toneiq.web.app/)
 
+# *We Have released a Beta of ToneIQ* : [TONEIQ-Beta](https://toneiqai.com/)
+
+
 
 ## Skills
 - Object Oriented Programming
