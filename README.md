@@ -3,6 +3,7 @@
 ### Software Engineer/Technical Consultant
 
 
+
 As a first-class graduate in BSc Computer Science, I have fortified my software engineering skills through roles in dynamic environments including a fintech startup and diverse freelance projects. Recently, I advanced my education with an MSc in Artificial Intelligence, aiming to blend cutting-edge academic insights with practical software development expertise. Currently, I am a Junior Software Developer at Stratford Consulting, where I focus on full stack development, microservices management in cloud-hosted environments, and project oversight. My specialization in UX design ensures that the solutions I help deliver not only meet functional requirements but also resonate deeply with end-users. I am committed to continuous learning and growth within an innovative environment, where my technical skills and proactive approach can contribute to results.
 
 
