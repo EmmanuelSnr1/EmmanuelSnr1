@@ -15,7 +15,6 @@ As a first-class graduate in BSc Computer Science, I have fortified my software 
 # *We Have released a Beta of ToneIQ* : [TONEIQ-Beta](https://toneiqai.com/)
 
 
-
 ## Skills
 - Object Oriented Programming
 - Java EE (Spring framework 2.7 above/Struts 2)
