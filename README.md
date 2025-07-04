@@ -7,6 +7,7 @@ As a first-class graduate in BSc Computer Science, I have fortified my software 
 **Contact**: [emmanuelappiah124@gmail.com](mailto:emmanuelappiah124@gmail.com)
 
 
+
 **Website**: [Emmanuel Snr](https://emmanstheory.web.app/#home)
 
 # *Our Consulting Company* : [SNR AI](https://snr-ai.com/)
