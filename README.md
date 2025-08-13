@@ -52,6 +52,7 @@ Adobe XD, Figma, TailwindCSS, shadcn/vue, Responsive Design Principles
 
 ---
 
+
 ## 📬 Get in Touch
 - **Email:** [emmanuelappiah124@gmail.com](mailto:emmanuelappiah124@gmail.com)  
 - **LinkedIn:** [linkedin.com/in/EmmanuelSnr1](https://www.linkedin.com/in/EmmanuelSnr1/)  
