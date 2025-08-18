@@ -6,8 +6,6 @@
 
 I’m passionate about building **user-focused, AI-powered solutions** that merge cutting-edge research with production-ready software. My journey has taken me through fintech startups, diverse freelance projects, and now into full-time startup building.
 
-
-
 ---
 
 ## 🚀 What I’m Working On
