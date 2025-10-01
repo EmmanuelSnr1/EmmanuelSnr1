@@ -20,6 +20,8 @@ At **Basic-Fit**, I design and ship **internal tools and workflow automations** 
 - **Human-in-the-Loop:** approvals, audit trails, SLAs, escalation paths  
 - **Observability by Default:** runbooks, logs/metrics alerts, error handling, idempotency
 
+
+
 **Daily Toolkit**
 - **Automation & Orchestration:** n8n, UI Bakery, GitHub Actions, (RabbitMQ / Kafka when needed)  
 - **Data & Storage:** PostgreSQL, MySQL, MongoDB Atlas, S3  
