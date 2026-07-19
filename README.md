@@ -1,6 +1,6 @@
 # Hi, I'm Emmanuel (SNR) 👋
 
-**Automation & Workflow Developer @ Basic-Fit** • **Founder @ [ToneIQ](https://toneiqai.com)**  
+**Business Solutions Engineer @ Basic-Fit** • **Founder @ [ToneIQ](https://toneiqai.com)**  
 **AI Engineer** • **Full-Stack Developer**  
 🎓 First-class BSc Computer Science • MSc Artificial Intelligence
 
